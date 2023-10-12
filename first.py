@@ -1,2 +1,3 @@
 def home():
-    pass
+    x="hello"
+    print(x)
